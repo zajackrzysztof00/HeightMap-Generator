@@ -1,0 +1,3 @@
+"""
+Heightmap Generator - Configuration Package
+"""
