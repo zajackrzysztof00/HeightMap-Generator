@@ -4,7 +4,7 @@
 
 ![Python](https://img.shields.io/badge/Python-3.7+-blue.svg)
 ![OpenCV](https://img.shields.io/badge/OpenCV-4.0+-green.svg)
-![License](https://img.shields.io/badge/License-Open%20Source-brightgreen.svg)
+![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)
 ![Status](https://img.shields.io/badge/Status-Active-success.svg)
 
 *A sophisticated terrain heightmap generator with multiple generation methods and a user-friendly interface*
@@ -190,5 +190,31 @@ The generator supports six distinct mountain generation algorithms, each creatin
 
 ## 📄 License
 
-This project is open source. See individual files for specific license information.
+This project is licensed under the **Apache License 2.0**.
 
+```
+Copyright 2025 Heightmap Generator Project
+
+Licensed under the Apache License, Version 2.0 (the "License");
+you may not use this file except in compliance with the License.
+You may obtain a copy of the License at
+
+    http://www.apache.org/licenses/LICENSE-2.0
+
+Unless required by applicable law or agreed to in writing, software
+distributed under the License is distributed on an "AS IS" BASIS,
+WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+See the License for the specific language governing permissions and
+limitations under the License.
+```
+
+### 🔓 **What this means:**
+- ✅ **Commercial Use** - You can use this software commercially
+- ✅ **Modification** - You can modify the source code
+- ✅ **Distribution** - You can distribute the software
+- ✅ **Patent Use** - Express grant of patent rights from contributors
+- ✅ **Private Use** - You can use the software privately
+- ⚠️ **License and Copyright Notice** - Must include license and copyright notice
+- ⚠️ **State Changes** - Must document any changes made to the code
+
+For the full license text, see: [Apache License 2.0](http://www.apache.org/licenses/LICENSE-2.0)
