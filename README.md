@@ -24,14 +24,17 @@
 
 ### Method Comparison
 ![Method Comparison](output/thumbs/thumb_method_comparison.png)
+
 *Side-by-side comparison of different generation techniques*
 
 ### Advanced Geological Terrain
 ![Improved Geological Terrain](output/thumbs/thumb_improved_geological_terrain.png)
+
 *High-detail geological terrain with complex mountain formations*
 
 ### Generated Heightmap
 ![Improved Geological Heightmap](output/thumbs/thumb_improved_geological_heightmap.png)
+
 *Grayscale heightmap showing elevation data*
 
 ## 📁 Project Structure
@@ -188,3 +191,4 @@ The generator supports six distinct mountain generation algorithms, each creatin
 ## 📄 License
 
 This project is open source. See individual files for specific license information.
+
